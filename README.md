@@ -1,9 +1,9 @@
 ### Hi there, I'm João 👋
-I'm Cloud/DevOps Engineer working remotely from Brazil.
+A passionate DevOps Engineer trying to solve every possible problem with IaC and eager learner of everything related to Kubernetes and the Cloud Native ecosystem.
 
-🌐: [joaoz.is-a.dev](https://joaoz.is-a.dev)
+Take a look at what I'm doing 🌐: [joaoz.is-a.dev](https://joaoz.is-a.dev)
 
-📫: jpberno@gmail.com
+You can reach me via 📫: jpberno@gmail.com
 
 
 [![DevOps](https://skillicons.dev/icons?i=aws,terraform,bash,githubactions,github,gitlab,bitbucket,postgres,mysql)](https://skillicons.dev)
