@@ -1,20 +1,9 @@
-### Hi there, I'm João 👋
-A passionate DevOps Engineer trying to solve every possible problem with IaC and eager learner of everything related to Kubernetes and the Cloud Native ecosystem.
+My official role is Platform/DevOps Engineer, but I'm always doing a little bit of Sofware Engineering and QA as well
 
 Take a look at what I'm doing 🌐: [joaoz.is-a.dev](https://joaoz.is-a.dev)
 
 You can reach me via 📫: jpberno@gmail.com
 
-
-[![DevOps](https://skillicons.dev/icons?i=aws,terraform,bash,githubactions,github,gitlab,bitbucket,postgres,mysql)](https://skillicons.dev)
-
-[![Frontend](https://skillicons.dev/icons?i=react,vue)](https://skillicons.dev)
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,rails,nestjs)](https://skillicons.dev)
-
-[![Languages](https://skillicons.dev/icons?i=c,cpp,java,javascript,python,go)](https://skillicons.dev)
-
-
-
-
-
+Open Source I've been building lately:
+- [get-selected](https://github.com/joao-zanutto/get-selected): custom GitHub Actions that retrieves labels of selected checkboxes on manual workflow executions
+- [t501-tablet-driver](https://github.com/joao-zanutto/t501-tablet-driver): custom userspace driver to fix the limited drawing area on the SZ PENG YI T501 graphics tablet
