@@ -1,4 +1,4 @@
-My official role is Platform/DevOps Engineer, but I'm always doing a little bit of Sofware Engineering and QA as well
+My official title at work is of a DevOps Engineer, but I do a little bit of everything
 
 Take a look at what I'm doing 🌐: [joaoz.is-a.dev](https://joaoz.is-a.dev)
 
