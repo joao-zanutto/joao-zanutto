@@ -1,4 +1,4 @@
-My official title at work is of a DevOps Engineer, but I do a little bit of everything
+Official title at work is DevOps Engineer, but I do a little bit of everything
 
 Take a look at what I'm doing 🌐: [joaoz.is-a.dev](https://joaoz.is-a.dev)
 
